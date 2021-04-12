@@ -1,4 +1,5 @@
 lab: true
+config_host: 10.19.1.246
 provisioning_enable: true
 virtual_protocol: ipmi
 virtual_masters: true
